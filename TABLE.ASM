@@ -42,7 +42,7 @@ B5      LDAA FLAG2L
         STAA INDEX
         JSR  INDEXR
         LDAA MMBR
-        STAA X
+        STAA ,X
         INC  CMNDL
         LDAA CMNDL
         CMPA #$05

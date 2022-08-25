@@ -64,4 +64,4 @@ POS     FCB  $56        LEFT TEAM POSITION IN LINE-UP
         FCB  $76        BALL LINE UP POSITION
 TABLE   RMB 50          MOVE TABLE DATA
         END
-        MON
+*       MON
